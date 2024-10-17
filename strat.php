@@ -8,5 +8,10 @@
     <h1>
         Pentasugla Segreto
     </h1>
+   
+       <?php
+    echo "Ciao, mondo!";
+    ?>
 </body>
 </html>
+   
